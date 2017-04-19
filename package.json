@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack app/index.js dist/bundle.js"
+    "build": "webpack"
   },
   "author": "xm94630 <xm94630@126.com> (http://www.zhexiaohai.com)",
   "license": "ISC",
