@@ -1,0 +1,17 @@
+{
+  "name": "webpackpro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xm94630 <xm94630@126.com> (http://www.zhexiaohai.com)",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
