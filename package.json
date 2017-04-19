@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run watch",
+    "watch": "webpack --progress --watch",
     "build": "webpack"
   },
   "author": "xm94630 <xm94630@126.com> (http://www.zhexiaohai.com)",
